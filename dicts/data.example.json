@@ -1,0 +1,172 @@
+[
+	{
+		"id": "cg5i2ospv",
+		"name": "Animais",
+		"items": [
+			{
+				"id": "28vgotz4m",
+				"name": "Mamiferos",
+				"items": [
+					{
+						"id": "4248vubp1",
+						"name": "Carnívoros",
+						"items": [
+							{
+								"id": "02hf1m6os",
+								"name": "Leões",
+								"items": []
+							},
+							{
+								"id": "p40cbbjag",
+								"name": "Tigres",
+								"items": []
+							},
+							{
+								"id": "ck3qu59uk",
+								"name": "Jaguars",
+								"items": []
+							},
+							{
+								"id": "0f58x5sp9",
+								"name": "Leopardos",
+								"items": []
+							}
+						]
+					},
+					{
+						"id": "l3uonpc63",
+						"name": "Herbívoros",
+						"items": [
+							{
+								"id": "s59je29ka",
+								"name": "Equídeos",
+								"items": [
+									{
+										"id": "76zz9slbc",
+										"name": "Cavalos",
+										"items": []
+									},
+									{
+										"id": "sgm9jw366",
+										"name": "Zebras",
+										"items": []
+									},
+									{
+										"id": "6w928e17r",
+										"name": "Asnos",
+										"items": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": "ssa2eib07",
+						"name": "Bovídeos",
+						"items": [
+							{
+								"id": "9lxt7pw7b",
+								"name": "Bois",
+								"items": []
+							},
+							{
+								"id": "h4yo7yeg2",
+								"name": "Búfalos",
+								"items": []
+							},
+							{
+								"id": "d7ogl82wr",
+								"name": "Antílopes",
+								"items": []
+							},
+							{
+								"id": "9twqzv5bp",
+								"name": "Cabras",
+								"items": []
+							}
+						]
+					},
+					{
+						"id": "j60giv2t",
+						"name": "Primatas",
+						"items": [
+							{
+								"id": "q1mq94hrj",
+								"name": "Gorilas",
+								"items": []
+							},
+							{
+								"id": "fikx62388",
+								"name": "Chimpanzés",
+								"items": []
+							},
+							{
+								"id": "tlrlnz8ob",
+								"name": "Orangotangos",
+								"items": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "qxb99w48l",
+				"name": "Aves",
+				"items": [
+					{
+						"id": "zihwj27m2",
+						"name": "Rapinas",
+						"items": [
+							{
+								"id": "343girbse",
+								"name": "Águias",
+								"items": []
+							},
+							{
+								"id": "99so1x6fd",
+								"name": "Falcões",
+								"items": []
+							},
+							{
+								"id": "qkyksshpr",
+								"name": "Corujas",
+								"items": []
+							},
+							{
+								"id": "184lw6pum",
+								"name": "Milhafres",
+								"items": []
+							}
+						]
+					},
+					{
+						"id": "1g32a8dod",
+						"name": "Pássaros",
+						"items": [
+							{
+								"id": "nasv146hp",
+								"name": "Canários",
+								"items": []
+							},
+							{
+								"id": "a6h92nybt",
+								"name": "Papagaios",
+								"items": []
+							},
+							{
+								"id": "zk639trwm",
+								"name": "Pardais",
+								"items": []
+							},
+							{
+								"id": "821ma03s5",
+								"name": "Rouxinóis",
+								"items": []
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
